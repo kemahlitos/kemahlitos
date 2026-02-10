@@ -61,7 +61,8 @@ Each project is documented with a focus on **practical problem solving**,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kemahlitos&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="profile-summary-card-output/default/3-stats.svg" alt="GitHub Stats" />
+  <img src="profile-summary-card-output/default/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 <p align="center">
@@ -69,7 +70,8 @@ Each project is documented with a focus on **practical problem solving**,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemahlitos&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commit Language" />
 </p>
 
 ---

@@ -58,6 +58,30 @@ Each project is documented with a focus on **practical problem solving**,
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kemahlitos&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kemahlitos&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemahlitos&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kemahlitos&theme=minimal&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ### 📈 Philosophy
 > *Consistency over time matters more than raw numbers.*
 

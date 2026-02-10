@@ -60,24 +60,23 @@ Each project is documented with a focus on **practical problem solving**,
 
 ### 📊 GitHub Activity
 
-<!-- Using a more stable mirror to avoid broken images / rate-limit issues -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kemahlitos&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kemahlitos&show_icons=true&include_all_commits=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kemahlitos&layout=compact&langs_count=8&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kemahlitos&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemahlitos&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800" height="165" />
 </p>
 
 ---
 
+<!-- Optional: if this ever breaks again, just keep it commented out.
 ### 🏆 Highlights
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kemahlitos&no-frame=true&margin-w=8&row=1" />
 </p>
-
----
+-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kemahlitos&style=flat&label=Profile%20views" />

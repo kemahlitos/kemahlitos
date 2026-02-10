@@ -58,18 +58,8 @@ Each project is documented with a focus on **practical problem solving**,
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=kemahlitos&theme=transparent&hide_border=true" 
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <sub>Consistency over time matters more than raw numbers.</sub>
-</p>
+### 📈 Philosophy
+> *Consistency over time matters more than raw numbers.*
 
 ---
 

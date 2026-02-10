@@ -1,13 +1,23 @@
-## Hi 👋
+## Welcome 👋
 
-I'm a **4th-year Computer Engineering student at Middle East Technical University (METU)**,
-interested in **data science, machine learning, and large-scale systems**.
+I'm a **4th-year Computer Engineering student at Middle East Technical University (METU)**  
+with a strong interest in **data science, machine learning, and large-scale systems**.
 
-I enjoy working on problems where **data, algorithms, and system performance**
-come together, especially in projects involving large datasets and parallel computation.
+I enjoy working at the intersection of **data, algorithms, and system performance** —
+especially on problems involving **large datasets, parallel computation, and scalability**.
 
-I have also participated in an **Erasmus exchange program at the University of Milan**,
-which gave me international academic experience and a broader perspective on my field.
+I’ve also participated in an **Erasmus exchange program at the University of Milan 🇮🇹**,  
+which gave me international academic experience and a broader perspective on engineering and research.
+
+---
+
+### 🧩 Tech Snapshot
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -22,23 +32,49 @@ which gave me international academic experience and a broader perspective on my 
 ---
 
 ### 🛠 Tools & Technologies
-- **Languages:** Python, C++, Java  
-- **Data & ML:** Pandas, NumPy, scikit-learn, Dask, RAPIDS  
-- **DevOps & Systems:** Docker, Kubernetes, Linux, Git  
-- **Simulation & Visualization:** AnyLogic, OMNeT++, Matplotlib  
+
+**Languages**  
+- Python, C++, Java  
+
+**Data & Machine Learning**  
+- Pandas, NumPy, scikit-learn  
+- Dask, RAPIDS (GPU-accelerated workflows)  
+
+**Systems & DevOps**  
+- Docker, Kubernetes, Linux, Git  
+
+**Simulation & Visualization**  
+- AnyLogic, OMNeT++, Matplotlib  
 
 ---
 
 ### 📌 Projects
-My GitHub profile contains selected projects covering:
+This GitHub profile includes selected projects covering:
+
 - Large-scale data science pipelines (CPU & GPU)
 - Machine learning–based time-series classification
 - Graph-based systems implemented in C++
-- Network simulations and system modeling
+- Network simulations and system-level modeling
 
-Each project is documented with a focus on **practical problem solving
-and engineering clarity**.
+Each project is documented with a focus on **practical problem solving**,  
+**engineering clarity**, and **reproducibility**.
 
 ---
 
-📫 More details can be found in the repositories below or via LinkedIn.
+### 🌱 Currently
+- Expanding my work on **scalable machine learning pipelines**
+- Exploring **distributed systems & cloud-native architectures**
+- Strengthening my foundations through **hands-on engineering projects**
+
+---
+
+### 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kemahlitos&show_icons=true&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=kemahlitos&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kemahlitos&layout=compact&hide_border=true)
+
+---
+
+📫 You can find more details in the repositories below  
+or connect with me via **LinkedIn**.

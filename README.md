@@ -1,9 +1,9 @@
 ## Welcome 👋
 
 I'm a **4th-year Computer Engineering student at Middle East Technical University (METU)**  
-interested in **data science, machine learning, and large-scale systems**.
+with a strong interest in **data science, machine learning, and large-scale systems**.
 
-I enjoy working where **data, algorithms, and system performance** meet —  
+I enjoy working at the intersection of **data, algorithms, and system performance** —
 especially on problems involving **large datasets, parallel computation, and scalability**.
 
 I’ve also participated in an **Erasmus exchange program at the University of Milan 🇮🇹**,  
@@ -61,25 +61,22 @@ Each project is documented with a focus on **practical problem solving**,
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kemahlitos&hide_border=true" height="165" />
+  <img 
+    src="https://streak-stats.demolab.com?user=kemahlitos&theme=transparent&hide_border=true" 
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kemahlitos&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemahlitos&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800" height="165" />
+  <sub>Consistency over time matters more than raw numbers.</sub>
 </p>
 
 ---
 
-<!-- Optional: if this ever breaks again, just keep it commented out.
-### 🏆 Highlights
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kemahlitos&no-frame=true&margin-w=8&row=1" />
-</p>
--->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kemahlitos&style=flat&label=Profile%20views" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=kemahlitos&style=flat&label=Profile%20views" 
+  />
 </p>
 
 📫 You can find more details in the repositories below  

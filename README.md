@@ -1,43 +1,44 @@
 ## Hi 👋
 
 I'm a **4th-year Computer Engineering student at Middle East Technical University (METU)**,
-with a strong interest in **data science, machine learning, and large-scale systems**.
+interested in **data science, machine learning, and large-scale systems**.
 
-I enjoy working on problems where **algorithms, data, and performance** come together,
-and I’m always open to learning new technologies and improving my engineering skills.
+I enjoy working on problems where **data, algorithms, and system performance**
+come together, especially in projects involving large datasets and parallel computation.
 
 I have also participated in an **Erasmus exchange program at the University of Milan**,
-which helped me gain international academic experience and a broader perspective.
+which gave me international academic experience and a broader perspective on my field.
 
 ---
 
-### 🔍 What I’m Interested In
-- 📊 Data science & machine learning  
-- ⏱ Time-series analysis  
-- ⚙️ Large-scale data processing  
-- 🚀 GPU acceleration & parallel computing  
-- 🧠 Algorithms and data structures  
-- 🌐 Networked and system-level simulations  
+### 🔍 Interests
+- Data science & machine learning  
+- Time-series analysis  
+- Large-scale data processing  
+- GPU acceleration & parallel computing  
+- Algorithms and data structures  
+- Networked and system-level simulations  
 
 ---
 
-### 🛠 Technologies I Use
+### 🛠 Tools & Technologies
 - **Languages:** Python, C++, Java  
 - **Data & ML:** Pandas, NumPy, scikit-learn, Dask, RAPIDS  
-- **Visualization:** Matplotlib  
-- **Systems:** Git, Linux, OMNeT++  
+- **DevOps & Systems:** Docker, Kubernetes, Linux, Git  
+- **Simulation & Visualization:** AnyLogic, OMNeT++, Matplotlib  
 
 ---
 
 ### 📌 Projects
-You can find my main projects on this profile, including:
+My GitHub profile contains selected projects covering:
 - Large-scale data science pipelines (CPU & GPU)
 - Machine learning–based time-series classification
 - Graph-based systems implemented in C++
-- Network simulations using OMNeT++
+- Network simulations and system modeling
 
-All repositories are documented and focus on **practical, real-world problem solving**.
+Each project is documented with a focus on **practical problem solving
+and engineering clarity**.
 
 ---
 
-📫 You can find more details in my projects below or reach out via LinkedIn.
+📫 More details can be found in the repositories below or via LinkedIn.

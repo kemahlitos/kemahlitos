@@ -1,54 +1,43 @@
 ## Hi 👋
 
-I'm a Computer Engineering student with a strong focus on **data science, machine learning, and large-scale data processing**.
+I'm a **4th-year Computer Engineering student at Middle East Technical University (METU)**,
+with a strong interest in **data science, machine learning, and large-scale systems**.
 
-I enjoy working on problems that require combining **algorithmic thinking** with
-**practical system design**, especially in settings involving large datasets,
-performance constraints, and parallel computation.
+I enjoy working on problems where **algorithms, data, and performance** come together,
+and I’m always open to learning new technologies and improving my engineering skills.
 
-Most of my work revolves around building **efficient, well-structured systems**
-rather than isolated scripts.
-
----
-
-### 🔍 Technical Interests
-- Data science & machine learning
-- Time-series analysis and classification
-- Large-scale data processing (CPU & GPU)
-- Parallel and distributed computing
-- Algorithms and data structures
-- Networked and system-level simulations
+I have also participated in an **Erasmus exchange program at the University of Milan**,
+which helped me gain international academic experience and a broader perspective.
 
 ---
 
-### 🧠 What I Work On
-- Designing **end-to-end data pipelines** that scale to large datasets  
-- Accelerating computation using **GPU-based frameworks** (Dask, RAPIDS)
-- Applying **graph algorithms and dynamic programming** to real-world problems
-- Translating theoretical concepts into **practical, performant implementations**
+### 🔍 What I’m Interested In
+- 📊 Data science & machine learning  
+- ⏱ Time-series analysis  
+- ⚙️ Large-scale data processing  
+- 🚀 GPU acceleration & parallel computing  
+- 🧠 Algorithms and data structures  
+- 🌐 Networked and system-level simulations  
 
 ---
 
-### 📌 Selected Projects
-- **Large-Scale Data Science Pipelines**  
-  CPU and GPU accelerated pipelines for processing large datasets using Dask and RAPIDS
-
-- **Storm Time-Series Classification**  
-  Machine learning–based classification of storm severity with a research-oriented approach
-
-- **Flight Route Finder (C++)**  
-  Graph-based flight routing using a custom multigraph, Dijkstra’s algorithm, and LRU caching
-
-- **Network Simulations (OMNeT++)**  
-  Wired, routing, and wireless network simulations focusing on protocol behavior and performance
+### 🛠 Technologies I Use
+- **Languages:** Python, C++, Java  
+- **Data & ML:** Pandas, NumPy, scikit-learn, Dask, RAPIDS  
+- **Visualization:** Matplotlib  
+- **Systems:** Git, Linux, OMNeT++  
 
 ---
 
-### 🎓 Background
-- Computer Engineering student  
-- Strong foundation in algorithms, data structures, networking, and statistics  
-- Experience with research-oriented and industry-style projects
+### 📌 Projects
+You can find my main projects on this profile, including:
+- Large-scale data science pipelines (CPU & GPU)
+- Machine learning–based time-series classification
+- Graph-based systems implemented in C++
+- Network simulations using OMNeT++
+
+All repositories are documented and focus on **practical, real-world problem solving**.
 
 ---
 
-📫 You can reach me via LinkedIn.
+📫 You can find more details in my projects below or reach out via LinkedIn.

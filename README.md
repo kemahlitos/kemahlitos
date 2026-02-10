@@ -34,7 +34,7 @@ which gave me international academic experience and a broader perspective on eng
 ### 🛠 Tools & Technologies
 **Languages:** Python, C++, Java  
 **Data & ML:** Pandas, NumPy, scikit-learn, Dask, RAPIDS  
-**DevOps & Systems:** Docker, Kubernetes, Linux, Git  
+**DevOps & Systems:** Docker, Kubernetes, Linux  
 **Simulation & Visualization:** AnyLogic, OMNeT++, Matplotlib  
 
 ---

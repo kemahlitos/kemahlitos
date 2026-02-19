@@ -1,17 +1,14 @@
-## Welcome 👋
+<h1 align="center">Hi, I'm Yusuf 👋</h1>
 
-I'm a **4th-year Computer Engineering student at Middle East Technical University (METU)**  
-with a strong interest in **data science, machine learning, and large-scale systems**.
-
-I enjoy working at the intersection of **data, algorithms, and system performance** —
-especially on problems involving **large datasets, parallel computation, and scalability**.
-
-I’ve also participated in an **Erasmus exchange program at the University of Milan 🇮🇹**,  
-which gave me international academic experience and a broader perspective on engineering and research.
+<p align="center">
+  4th-year Computer Engineering student at <strong>METU</strong> · Erasmus @ University of Milan 🇮🇹<br/>
+  Interested in <strong>data science, machine learning & large-scale systems</strong>
+</p>
 
 ---
 
-### 🧩 Tech Snapshot
+### 🧩 Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -19,67 +16,31 @@ which gave me international academic experience and a broader perspective on eng
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
-
-### 🔍 Interests
-- Data science & machine learning  
-- Time-series analysis  
-- Large-scale data processing  
-- GPU acceleration & parallel computing  
-- Algorithms and data structures  
-- Networked and system-level simulations  
+**Data & ML:** Pandas · NumPy · scikit-learn · Dask · RAPIDS  
+**DevOps:** Docker · Kubernetes · Linux  
+**Other:** AnyLogic · OMNeT++ · Matplotlib
 
 ---
 
-### 🛠 Tools & Technologies
-**Languages:** Python, C++, Java  
-**Data & ML:** Pandas, NumPy, scikit-learn, Dask, RAPIDS  
-**DevOps & Systems:** Docker, Kubernetes, Linux  
-**Simulation & Visualization:** AnyLogic, OMNeT++, Matplotlib  
+### 📌 What's Here
 
----
-
-### 📌 Projects
-This GitHub profile includes selected projects covering:
 - Large-scale data science pipelines (CPU & GPU)
-- Machine learning–based time-series classification
-- Graph-based systems implemented in C++
-- Network simulations and system-level modeling
-
-Each project is documented with a focus on **practical problem solving**,  
-**engineering clarity**, and **reproducibility**.
+- ML-based time-series classification
+- Graph systems in C++
+- Network & system-level simulations
 
 ---
 
 ### 🌱 Currently
-- Expanding my work on **scalable machine learning pipelines**
-- Exploring **distributed systems & cloud-native architectures**
-- Strengthening my foundations through **hands-on engineering projects**
+
+Exploring **scalable ML pipelines**, **distributed systems**, and **cloud-native architectures**.
 
 ---
-
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kemahlitos&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=kemahlitos&style=flat&label=Profile+views" />
 </p>
 
-
----
-
-
----
-
-### 📈 Philosophy
 > *Consistency over time matters more than raw numbers.*
-
----
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=kemahlitos&style=flat&label=Profile%20views" 
-  />
-</p>
-
-📫 You can find more details in the repositories below  
-or connect with me via **LinkedIn**.
